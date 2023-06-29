@@ -12,5 +12,5 @@ The repository consists of the following files:
 - Solution: The "Solution" file showcases the results obtained from solving the Bellman equation using different methods. It includes relevant figures and explanations of the findings.
 - Code: This folder contains four Python files, each representing one of the methods employed to solve the Bellman equation.
 
-## Acknowledgemnts
+## Acknowledgments
 This project was developed as part of the course in Dynamic Optimization at the Solvay Brussels School of Economics & Management, under the guidance and instruction of Thomas Demuynck.
