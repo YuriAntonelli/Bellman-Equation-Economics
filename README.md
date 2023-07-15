@@ -1,4 +1,4 @@
-# Bellman-Equation-Economics
+# Bellman Equation applied to Economics
 This repository contains an implementation of a Bellman equation for an Economic model using four different methods: 
 1. value function iteration
 2. linear interpolation
