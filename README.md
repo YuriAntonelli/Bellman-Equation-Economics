@@ -5,7 +5,7 @@ This repository contains an implementation of a Bellman equation for an Economic
 3. policy function iteration
 4. matrix computation
 
-The project aims to provide various approaches to solving the Bellman equation, allowing for a comparative analysis of their efficiency and accuracy.
+The project aims to provide various approaches to solve the Bellman equation, allowing for a comparative analysis of their efficiency and accuracy.
 
 ## Files
 The repository consists of the following files:
